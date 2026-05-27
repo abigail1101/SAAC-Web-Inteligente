@@ -27,9 +27,10 @@ python -m venv .venv
 
 2. Activar entorno virtual
 Windows:
+
 .\.venv\Scripts\activate
 
-3. Instalar dependencias
+4. Instalar dependencias
 
 pip install -r requirements.txt
 
