@@ -1,6 +1,7 @@
 
 # SAAC-Web-Inteligente
-#Descarga del proyecto completo:
+#Descarga del proyecto completo
+
 https://drive.google.com/drive/folders/1P-y0EpdKilspUHf-VNBwcTGiyrR5pCpu?usp=sharing 
 Solicitar acceso con la persona responsable de este proyecto
 El SAAC se encuentra en la carpeta RESULTADOS > SITIO PICTOSEQ > DEMO_ACTUALIZACION.zip
