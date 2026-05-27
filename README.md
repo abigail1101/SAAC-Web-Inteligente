@@ -6,6 +6,7 @@
 https://drive.google.com/drive/folders/1P-y0EpdKilspUHf-VNBwcTGiyrR5pCpu?usp=sharing 
 
 * Todo el proyecto se encuentra dentro de la carpeta compartida. Los notebooks de prueba ejecutados en Google Colab fueron utilizados para generar secuencias sin el uso del SAAC; estos forman parte de las pruebas y experimentación del proyecto. El SAAC fue desarrollado con el propósito de permitir la interacción directa del usuario final con el sistema.
+* También se encuentran los manuales técnicos y de usuario, al igual que los resultados de las pictosecuencias preconstruidas.
 
 * En caso de no contar con acceso a la carpeta, solicitar autorización a la persona responsable del proyecto.
 
